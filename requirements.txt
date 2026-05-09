@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-mistralai
+langchain-nvidia-ai-endpoints
+langchain-ollama
+streamlit
+python-dotenv
