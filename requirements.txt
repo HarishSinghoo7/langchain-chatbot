@@ -6,6 +6,7 @@ langchain-anthropic
 langchain-mistralai
 langchain-nvidia-ai-endpoints
 langchain-ollama
+langchain-openrouter
 streamlit
 python-dotenv
 langsmith
