@@ -9,3 +9,5 @@ langchain-ollama
 streamlit
 python-dotenv
 langsmith
+fastapi
+uvicorn
