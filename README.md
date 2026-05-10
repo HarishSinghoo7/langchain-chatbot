@@ -82,16 +82,15 @@ The chatbot has access to various tools for enhanced functionality:
 ```
 Langchain-ChatBot/
 ├── app.py              # Main Streamlit application
+├── ui/                 # Streamlit application ui
+├── apis/               # FastAPI apis
 ├── config.py           # Configuration settings
 ├── llm_providers/      # LLM provider integrations
 ├── tools/              # Tool implementations
 ├── utils/              # Utility functions
+├── prompt_templates/    # Prompt templates
 └── requirements.txt    # Project dependencies
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
 
