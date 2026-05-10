@@ -1,11 +1,11 @@
 from dataclasses import dataclass
 from typing import Any, Dict, Optional
-from model_connectors.open_router_model import OpenRouterConnector
-from model_connectors.mistral_ai_model import MistralAIConnector
-from model_connectors.openai_model import OpenAIConnector
-from model_connectors.anthropic_model import AnthropicConnector
-from model_connectors.nvidia_ai_model import NvidiaAIEndpointsConnector
-from model_connectors.ollama_model import OllamaConnector
+from llm_providers.open_router_model import OpenRouterConnector
+from llm_providers.mistral_ai_model import MistralAIConnector
+from llm_providers.openai_model import OpenAIConnector
+from llm_providers.anthropic_model import AnthropicConnector
+from llm_providers.nvidia_ai_model import NvidiaAIEndpointsConnector
+from llm_providers.ollama_model import OllamaConnector
 
 @dataclass
 class ModelFactory:
