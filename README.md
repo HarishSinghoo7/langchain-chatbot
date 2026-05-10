@@ -88,7 +88,7 @@ Langchain-ChatBot/
 ├── llm_providers/      # LLM provider integrations
 ├── tools/              # Tool implementations
 ├── utils/              # Utility functions
-├── prompt_templates/    # Prompt templates
+├── prompt_templates/   # Prompt templates
 └── requirements.txt    # Project dependencies
 ```
 
